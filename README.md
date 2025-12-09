@@ -13,3 +13,4 @@
 
 ## Salida del codigo en consola
 ![alt text](image.png)
+![alt text](image-1.png)
