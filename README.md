@@ -14,3 +14,6 @@
 ## Salida del codigo en consola
 ![alt text](image.png)
 ![alt text](image-1.png)
+
+## Lista Enlazada
+![alt text](image-2.png)
